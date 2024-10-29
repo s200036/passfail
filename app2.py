@@ -19,7 +19,7 @@ with col1:
 
 with col2:
       st.subheader('2. 기계학습 모델 평가')
-      st.image( '/content/chart.PNG' )              # 이미지 불러오기
+      st.image( 'chart.PNG' )              # 이미지 불러오기
 
 st.subheader('3. 지능 에이전트 활용 방법 ')
 st.write('**** 공부시간을 입력하세요.. 인공지능이 당신의 합격/불합격 분류 결과를 알려드립니다!')
